@@ -72,6 +72,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 ## Tools
 * [Step CLI](https://smallstep.com/cli/) - A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. 
 * [JWT DEBUGGER](https://jwt.ssotools.com/)  - A simple JWT decoder tool, that can help to verify the JWT and with the help of signature.
+* [SAML Tester](https://saml-tester.compile7.org/)  - A simple tool to test SAML and SCIM integration.
 
 ## Other aggregators
 * [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
